@@ -1,6 +1,5 @@
 import csv
 import time
-import os
 from win10toast import ToastNotifier
 l=[]
 f=1
